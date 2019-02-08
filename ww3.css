@@ -1,0 +1,143 @@
+﻿.thTop
+{
+	background: #f0f0f0;
+	color: #3b5996;
+	border: 0px solid #e9e9e9;
+}
+
+.thHead{
+ border-radius:4px;
+ margin-right:auto;
+ margin-left:auto;
+ background-color:#fff;
+ border:1px solid #ccc;
+}
+
+.thCornerL
+{
+	background: #f9f9f9;
+	color: #3b5996;
+	font: 11px tahoma, Arial Black, Arial, helvetica, sans-serif;
+	border-bottom: 1px solid #d9d9d9;
+	height:22px;
+}
+.thCornerR
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR 
+{
+	color: #3b5996;
+	text-decoration: underline;
+}
+.thHead
+{
+	color: #7791c3;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+
+.row1, .row1Active
+{
+	background: #FFFFFF;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.row1 a:visited, .row1_avisited, .row1Active a:visited, .row1Active_avisited
+{
+	text-decoration: underline;
+}
+.row2, .row2Active
+{
+	background: #fefefe;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.row2 a:hover, .row2 a:active, .row2_ahover, .row2Active a:hover, .row2Active a:active, .row2Active_ahover
+{
+	text-decoration: underline;
+}
+
+.row3, .row3Active
+{
+	background: #FFFFFF;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.row3 a:hover, .row3 a:active, .row3_ahover, .row3Active a:hover, .row3Active a:active, .row3Active_ahover
+{
+	text-decoration: underline;
+}
+td.row2,td.row1.over:hover
+{
+	background: #fefefe;
+	color: #383838;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.row2 a:link, .row2_alink, .row2Active a:link, .row2Active_alink
+{
+	text-decoration: underline;
+}
+
+
+.td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom 
+{
+	background: #f0f0f0;
+	color: #3b5996;
+	border: 0px solid #e9e9e9;
+}
+.catBottom a:link, .catBottom_alink
+{
+	background: #3b5996;
+	color: #d8dee8;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+.catBottom a:visited, .catBottom_avisited
+{
+	color: #d8dee8;
+	text-decoration: none;
+}
+.catBottom a:visited, .catBottom_avisited
+{
+	color: #d8dee8;
+	text-decoration: none;
+}
+.catBottom a:hover, .catBottom a:active, .catBottom_ahover
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.forumline .row1,.forumline .row2,.forumline .row3,.forumline .row3Right 
+{
+	background: #f9f9f9;
+	color: #3b5996;
+	font: 11px tahoma, Arial Black, Arial, helvetica, sans-serif;
+	border-bottom: 1px solid #d9d9d9;
+	height:22px;
+}
+.forumline td.pagination 
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR 
+{
+	color: #3b5996;
+	text-decoration: none;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #3b5996;
+	text-decoration: underline;
+}
+.thHead
+{
+	color: #7791c3;
+	font: 11px tahoma, arial, helvetica, sans-serif;
+}
+}
